@@ -57,5 +57,8 @@ docker exec -it django-app python manage.py migrate
 
 ## Посилання на Docker Hub Репозиторії
 
-* **MySQL Image:** [vitsheo/mysql-local:1.0.0](https://docker.com)
-* **App Image:** [vitsheo/todoapp:2.0.0](https://docker.com)
+## Посилання на Docker Hub Репозиторії
+
+* **MySQL Image:** [https://hub.docker.com/r/vitsheo/mysql-local](https://hub.docker.com/r/vitsheo/mysql-local)
+* **App Image:** [https://hub.docker.com/r/vitsheo/todoapp](https://hub.docker.com/r/vitsheo/todoapp)
+
